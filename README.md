@@ -22,10 +22,10 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tatialveso">
+      <a href="https://github.com/07Soso">
         <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
         <sub>
-          <b>tatialveso</b>
+          <b>07Soso</b>
         </sub>
       </a>
     </td>
