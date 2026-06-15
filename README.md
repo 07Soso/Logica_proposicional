@@ -12,7 +12,7 @@ Escreva uma descrição do seu projeto
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+git clone https://github.com/07Soso/projetofinalPCD.git
 ```
 
 ## :soon: Implementação futura
