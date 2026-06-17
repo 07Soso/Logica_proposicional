@@ -17,6 +17,7 @@ Para cada linha da tabela verdade, o programa calcula o valor lógico da proposi
 ## 📔 Notebooks e arquivos do projeto:
 * `Avaliador_de_proposições.ipynb`: Programa de análise de preposições, geração de tabela verdade e verificação de tautologia e contradição
 * `Explicação_detalhada_avaliador_proposições.ipynb`: Este arquivo que documenta, em células fragmentadas, a lógica passo a passo de criação do código, explicando detalhadamente cada parte
+* `Avaliador_de_argumentos.ipynb`: Programas de análise de argumentos, verificando sua validade
 * `Descrição_versão_inicial_processo_desenvolvimento.ipynb`: Este arquivo apresenta e explica detalhadamente contrução da versão inicial do projeto e os desafios encontrados
 * `README.md`: descrição geral do projeto
 
@@ -24,7 +25,8 @@ Para cada linha da tabela verdade, o programa calcula o valor lógico da proposi
 1. `README.md`
 2. `Explicação_detalhada_avaliador_proposições.ipynb`
 3. `Avaliador_de_proposições.ipynb`
-4. `Descrição_versão_inicial_processo_desenvolvimento.ipynb`
+4. `Avaliador_de_argumentos.ipynb`
+5. `Descrição_versão_inicial_processo_desenvolvimento.ipynb`
 
 ## :books: Funcionalidades
 * <b>Funcionalidade 1</b>: Leitura e interpretação da proposição
