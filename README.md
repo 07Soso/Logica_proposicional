@@ -1,4 +1,13 @@
-<h1 align="center">:file_cabinet: Projeto Final PCD - Lógica proposicional</h1>
+<h1 align="center">:file_cabinet: Avaliador de proposição com base em lógica proposicional</h1>
+
+Este projeto corresponde ao trabalho final da disciplina **Práticas em Ciência de Dados**, cursada no **1º semestre de 2026**.
+
+A disciplina foi ministrada pelos professores doutores:
+
+- Daniel Roberto Cassar  
+- James Moraes de Almeida  
+- Leandro Nascimento Lemos  
+
 
 ## :memo: Descrição
 Este projeto consiste na implementação de um programa em Python capaz de analisar proposições da lógica proposicional e gerar automaticamente suas respectivas tabelas verdade.
