@@ -6,9 +6,16 @@ O código realiza a leitura de uma expressão lógica fornecida pelo usuário, i
 Para cada linha da tabela verdade, o programa calcula o valor lógico da proposição e armazena o resultado, possibilitando também a verificação de propriedades como tautologia e contradição.
 
 ## 📔 Notebooks e arquivos do projeto:
-* `Lógica proposicional.ipynb`: programa de análise de preposições, geração de tabela verdade e verificação de tautologia e contradição
-* `Descrição do processo de desenvolvimento.ipynb`: descrição dos desafios encontrados ao longo do desenvolvimento do projeto e respectivas soluções
+* `Avaliador_de_proposições.ipynb`: Programa de análise de preposições, geração de tabela verdade e verificação de tautologia e contradição
+* `Explicação_detalhada_avaliador_proposições.ipynb`: Este arquivo que documenta, em células fragmentadas, a lógica passo a passo de criação do código, explicando detalhadamente cada parte
+* `Descrição_versão_inicial_processo_desenvolvimento.ipynb`: Este arquivo apresenta e explica detalhadamente contrução da versão inicial do projeto e os desafios encontrados
 * `README.md`: descrição geral do projeto
+
+## Ordem sugerida de leitura dos arquivos:
+1. `README.md`
+2. `Explicação_detalhada_avaliador_proposições.ipynb`
+3. `Avaliador_de_proposições.ipynb`
+4. `Descrição_versão_inicial_processo_desenvolvimento.ipynb`
 
 ## :books: Funcionalidades
 * <b>Funcionalidade 1</b>: Leitura e interpretação da proposição
@@ -43,17 +50,5 @@ git clone https://github.com/07Soso/projetofinalPCD.git
 * O que será implementado na próxima sprint?
 
 ## :handshake: Colaboradores
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/07Soso">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>07Soso</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+* Sophie Silbiger
 
-## :dart: Status do projeto
