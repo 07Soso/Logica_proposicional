@@ -1,5 +1,8 @@
 <h1 align="center">:file_cabinet: Analisador de Lógica Formal para expressões de Lógica Proposicional</h1>
 
+Sophie Silbiger
+Ilum Escola de Ciência (CNPEM)
+
 Este projeto corresponde ao trabalho final da disciplina **Práticas em Ciência de Dados**, cursada no **1º semestre de 2026**.
 
 A disciplina foi ministrada pelos professores doutores:
