@@ -60,7 +60,7 @@ Este projeto consiste na implementação de um programa em Python capaz de anali
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-git clone https://github.com/07Soso/projetofinalPCD.git
+git clone https://github.com/07Soso/Logica_proposicional.git
 ```
 
 ## :soon: Implementação futura
