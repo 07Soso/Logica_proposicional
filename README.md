@@ -22,6 +22,8 @@ Este projeto consiste na implementação de um programa em Python capaz de anali
 * `Explicação_detalhada_avaliador_argumentos.ipynb`: Este arquivo que documenta, em células fragmentadas, a lógica passo a passo de criação do código do avaliador de argumentos, explicando detalhadamente cada parte
 * `Avaliador_de_argumentos.ipynb`: Programas de análise de argumentos, verificando sua validade
 * `Descrição_versão_inicial_processo_desenvolvimento.ipynb`: Este arquivo apresenta e explica detalhadamente contrução da versão inicial do projeto e os desafios encontrados
+* `.gitignore`: Este arquivo é utilizado para impedir que determinados arquivos e pastas sejam rastreados pelo Git.
+* `LICENSE`: Este projeto está licenciado sob a GNU General Public License v3.0 (GPLv3)
 
 
 ## Ordem sugerida de leitura dos arquivos:
